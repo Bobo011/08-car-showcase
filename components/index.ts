@@ -1,5 +1,3 @@
-import {Hero} from './Hero'
-
-export {
-	Hero
-}
+'use client'
+export {Hero} from './Hero'
+export {CustomButton} from './CustomButton'
