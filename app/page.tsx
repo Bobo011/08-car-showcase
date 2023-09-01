@@ -1,3 +1,4 @@
+'use client'
 import { CustomFilter, CarCard, Hero, SearchBar } from '@/components'
 import { fetchCars } from '@/utils'
 import Image from 'next/image'
