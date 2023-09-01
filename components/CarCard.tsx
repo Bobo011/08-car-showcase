@@ -59,7 +59,7 @@ export const CarCard = ({ car }: CarCardProps) => {
 						</p>
 					</div>
 					<div className='flex flex-col justify-center items-center gap-2'>
-						<Image src='/gas.svg' width={20} height={20} alt='gas' />
+						<Image src='/gas.svg' width={20} height={20} alt='gas'  />
 						<p className='text-[14px] leading-[17px]'>
 							{city_mpg} MPG
 						</p>
